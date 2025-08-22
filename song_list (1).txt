@@ -1,0 +1,21 @@
+Title	Artist	Genre	Year	PlayTimeSec
+Electric Sky	Nova Ray	Electronic	2013	309
+Moonlight Drive	Echo Synth	Synthpop	2005	367
+Echoes of Silence	Velour Vibe	Chillwave	2004	239
+Velvet Horizon	Stellar Sound	Indie	2005	384
+Neon Nights	Digital Mirage	Dream Pop	2018	160
+Crystal Waves	Moon Haze	Chillwave	2009	130
+Dusk Runner	Crimson Tide	Synthpop	2001	349
+Firefly Glow	Blue Dusk	Chillwave	2022	273
+Infinite Roads	Orbit Flux	Dream Pop	2006	215
+Dreamcatcher	Synth Whisper	Synthpop	2001	412
+Midnight Bloom	Retro Glide	Dream Pop	2005	320
+Gravity Falls	Wanderlust	Dream Pop	2018	247
+Aurora Chase	DJ Cascade	Dream Pop	2000	354
+Phantom Pulse	Skywave	Electronic	2002	190
+Solar Drift	Drift Theory	Indie	2000	237
+Twilight Mirage	Neon Tribe	Dream Pop	2004	290
+Pulse Reactor	The Pulse	Dream Pop	2001	247
+Lunar Sync	Light Runner	Synthpop	2024	328
+Rainbeat	Zenith	Indie	2006	299
+Digital Eden	Holo Dream	Synthpop	2021	214
